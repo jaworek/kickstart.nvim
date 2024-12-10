@@ -640,6 +640,7 @@ require('lazy').setup({
         -- nixd = {},
         ansiblels = {},
         html = {},
+        eslint = {},
         -- this piece of shit is broken
         -- https://github.com/sqls-server/sqls/issues/153
         -- sqls = {},
