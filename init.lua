@@ -689,6 +689,7 @@ require('lazy').setup({
         ansiblels = {},
         html = {},
         eslint = {},
+        biome = {},
         -- this piece of shit is broken
         -- https://github.com/sqls-server/sqls/issues/153
         -- sqls = {},
@@ -702,8 +703,7 @@ require('lazy').setup({
         --
         -- But for many setups, the LSP (`ts_ls`) will work just fine
         ts_ls = {},
-        --
-
+        tailwindcss = {},
         lua_ls = {
           -- cmd = { ... },
           -- filetypes = { ... },
